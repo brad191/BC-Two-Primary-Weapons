@@ -2272,9 +2272,9 @@ class CfgWeapons
 	#include "\BC_TPW\compat\KT.hpp"
 	#include "\BC_TPW\compat\ARD97.hpp"
 	#include "\BC_TPW\compat\CDLC_SOG.hpp"
-	#include "\BC_TPW\compat\blank.hpp"
-	#include "\BC_TPW\compat\blank2.hpp"
-	#include "\BC_TPW\compat\blank3.hpp"
+	//#include "\BC_TPW\compat\blank.hpp"
+	//#include "\BC_TPW\compat\blank2.hpp"
+	//#include "\BC_TPW\compat\blank3.hpp"
 };
 
 class CfgMagazines
