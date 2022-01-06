@@ -20,7 +20,11 @@ class mod_rifle_A_bcsewpn: mod_rifle_A // create a secondweapon classname
   hiddenSelectionsTextures[] =  {""}; // hide muzzleflash  
   //hiddenSelectionsMaterials[] = {""}; //need it sometimes  
 };  
-      
+
+//If suppport rhs grips
+  class mod_rifle_A_grip_bcsewpn: mod_rifle_A_bcsewpn{};	  
+	class mod_rifle_A_grip2_bcsewpn: mod_rifle_A_bcsewpn{};	  
+	class mod_rifle_A_grip3_bcsewpn: mod_rifle_A_bcsewpn{};	  
     
   If one p3d have several color variants，you need to edit hiddenSelections for display correct color.  
   If in original weapons config     
