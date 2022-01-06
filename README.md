@@ -32,3 +32,4 @@ class mod_rifle_A_bcsewpn: mod_rifle_A // create a secondweapon classname
   hiddenSelectionsTextures[] = {"","a_mod\tex\camo1.paa","a_mod\tex\camo2.pa"};
   hiddenSelectionsMaterials[] = {"","a_mod\tex\camo1.rvmat","a_mod\tex\camo2.rvmat"};
 	
+
