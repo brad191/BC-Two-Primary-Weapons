@@ -16,7 +16,7 @@ class mod_rifle_A_bcsewpn: mod_rifle_A // create a secondweapon classname
   class NGL: NGL{};  
   _generalMacro = "";  
   baseWeapon = "";  
-  hiddenSelections[] = {"zasleh"};  //muzzleflash  
+  hiddenSelections[] = {"zasleh"};  //maybe not zasleh but muzzleflash sometimes  
   hiddenSelectionsTextures[] =  {""}; // hide muzzleflash  
   //hiddenSelectionsMaterials[] = {""}; //need it sometimes  
 };  
@@ -31,5 +31,5 @@ class mod_rifle_A_bcsewpn: mod_rifle_A // create a secondweapon classname
   hiddenSelections[] = {"zasleh","camo1","camo2"};  
   hiddenSelectionsTextures[] = {"","a_mod\tex\camo1.paa","a_mod\tex\camo2.pa"};  
   hiddenSelectionsMaterials[] = {"","a_mod\tex\camo1.rvmat","a_mod\tex\camo2.rvmat"};  
-	
-
+    
+You can add support in compat directory.  
