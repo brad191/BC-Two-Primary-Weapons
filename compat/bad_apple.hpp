@@ -44561,6 +44561,23 @@
 		hiddenSelections[] = {"zasleh"};
 		hiddenSelectionsTextures[] = {""};
 	};
+	class CUP_smg_UZI;
+	class CUP_smg_UZI_bcsewpn: CUP_smg_UZI
+	{
+		enableAttack = 0;
+		type = 4;
+		scope = 1;
+		scopeArsenal = 0;
+		handAnim[] = {};
+		modes[] = {"Noob_Auto"};
+		class Noob_Auto: Noob_Auto{};
+		muzzles[] = {"this","NGL"};
+		class NGL: NGL{};
+		_generalMacro = "";
+		baseWeapon = "";
+		hiddenSelections[] = {"zasleh"};
+		hiddenSelectionsTextures[] = {""};
+	};
 	class arifle_mas_m79;
 	class arifle_mas_m79_bcsewpn: arifle_mas_m79
 	{
