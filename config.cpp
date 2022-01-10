@@ -2273,7 +2273,7 @@ class CfgWeapons
 	#include "\BC_TPW\compat\ARD97.hpp"
 	#include "\BC_TPW\compat\CDLC_SOG.hpp"
 	#include "\BC_TPW\compat\Tier1.hpp"
-	#include "\BC_TPW\compat\SPS.hpp"
+	//#include "\BC_TPW\compat\SPS.hpp"
 	#include "\BC_TPW\compat\gold.hpp"
 	#include "\BC_TPW\compat\SA.hpp"
 	#include "\BC_TPW\compat\lxWS.hpp"
