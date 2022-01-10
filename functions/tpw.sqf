@@ -38,7 +38,8 @@ if (_weapon_se_old isEqualTo "") then
 						player addMagazine "mag_null";
 						player removeMagazine "mag_null";
 						player selectWeapon primaryWeapon player;
-						//player playAction "WeaponOn";					
+						//player playAction "";		
+						player action ["SwitchWeapon", player, player, 0];			
 					} else
 					{
 						hint "Your weapon do not support yet!"
@@ -53,7 +54,7 @@ if (_weapon_se_old isEqualTo "") then
 					player addMagazine "mag_null";
 					player removeMagazine "mag_null";
 					player selectWeapon primaryWeapon player;
-					//player playAction "WeaponOn";
+					//player playAction "";
 				};
 			} else
 			{

@@ -12,8 +12,11 @@
 		class NGL: NGL{};
 		_generalMacro = "";
 		baseWeapon = "";
+		//hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
+		//hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PB\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\?ъе?с_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\?ъе?с_low_CO.paa","","",""};
 		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PB\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\?ъе?с_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\?ъе?с_low_CO.paa","","",""};
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PB\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\?ъеѕс_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\?ъеѕс_low_CO.paa","","",""};
+		
 		};
 	class SPS_AI_AXMC338_27_B_F;
 	
@@ -31,7 +34,7 @@
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\B\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъе?с_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъе?с_low_CO.paa","","",""};
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\B\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъеѕс_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъеѕс_low_CO.paa","","",""};
 		};
 	class SPS_AI_AXMC338_27_G_F;
 
@@ -49,7 +52,7 @@
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\G\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\?ъе?с_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\?ъе?с_low_CO.paa","","",""};
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\G\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\?ъеѕс_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\?ъеѕс_low_CO.paa","","",""};
 		};
 	class SPS_AI_AXMC338_27_DE_F;
 
@@ -67,7 +70,7 @@
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\DE\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\?ъе?с_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\?ъе?с_low_CO.paa","","",""};
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\DE\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\?ъеѕс_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\?ъеѕс_low_CO.paa","","",""};
 		};
 	class SPS_AI_AXMC338_27_ES_F;
 
@@ -85,7 +88,7 @@
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\ES\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\?ъе?с_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\?ъе?с_low_CO.paa","","",""};
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\ES\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\?ъеѕс_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\?ъеѕс_low_CO.paa","","",""};
 		};
 	class SPS_AI_AXMC300_26_PB_F;
 
@@ -103,7 +106,7 @@
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PB\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\?ъе?с_low_CO.paa","","x\SPS\Weapons\sps_ai_axmc\Data\PB\?ъе?с_low_CO.paa","",""};
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PB\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\?ъеѕс_low_CO.paa","","x\SPS\Weapons\sps_ai_axmc\Data\PB\?ъеѕс_low_CO.paa","",""};
 		};
 	class SPS_AI_AXMC300_26_B_F;
 
@@ -121,7 +124,7 @@
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\B\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъе?с_low_CO.paa","","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъе?с_low_CO.paa","",""};
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\B\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъеѕс_low_CO.paa","","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъеѕс_low_CO.paa","",""};
 		};
 	class SPS_AI_AXMC300_26_G_F;
 
@@ -139,7 +142,7 @@
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\G\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\?ъе?с_low_CO.paa","","x\SPS\Weapons\sps_ai_axmc\Data\G\?ъе?с_low_CO.paa","",""};
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\G\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\?ъеѕс_low_CO.paa","","x\SPS\Weapons\sps_ai_axmc\Data\G\?ъеѕс_low_CO.paa","",""};
 		};
 	class SPS_AI_AXMC300_26_DE_F;
 
@@ -157,7 +160,7 @@
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\DE\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\?ъе?с_low_CO.paa","","x\SPS\Weapons\sps_ai_axmc\Data\DE\?ъе?с_low_CO.paa","",""};
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\DE\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\?ъеѕс_low_CO.paa","","x\SPS\Weapons\sps_ai_axmc\Data\DE\?ъеѕс_low_CO.paa","",""};
 		};
 	class SPS_AI_AXMC300_26_ES_F;
 
@@ -175,7 +178,7 @@
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\ES\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\?ъе?с_low_CO.paa","","x\SPS\Weapons\sps_ai_axmc\Data\ES\?ъе?с_low_CO.paa","",""};
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\ES\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\?ъеѕс_low_CO.paa","","x\SPS\Weapons\sps_ai_axmc\Data\ES\?ъеѕс_low_CO.paa","",""};
 		};
 	class SPS_AI_AXMC308_26_PB_F;
 
@@ -192,9 +195,9 @@
 		class NGL: NGL{};
 		_generalMacro = "";
 		baseWeapon = "";
-		hiddenSelections[] = {"zasleh","Barrel" , "Group2" , "Group3" , "Group4" , "Mag338" , "Mag300" , "Mag308" , "MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PB\Group1_low_CO.paa",  "x\SPS\Weapons\sps_ai_axmc\Data\PB\Group2_low_CO.paa", "x\SPS\Weapons\sps_ai_axmc\Data\PB\Group3_low_CO.paa", "x\SPS\Weapons\sps_ai_axmc\Data\PB\Group4_low_CO.paa" ,"" ,"","x\SPS\Weapons\sps_ai_axmc\Data\PB\Group4_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\Group4_low_CO.paa"};
-	};
+		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PB\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\?ъеѕс_low_CO.paa","","","x\SPS\Weapons\sps_ai_axmc\Data\PB\?ъеѕс_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\?ъеѕс_low_CO.paa"};
+		};
 	class SPS_AI_AXMC308_26_B_F;
 
 	class SPS_AI_AXMC308_26_B_F_bcsewpn: SPS_AI_AXMC308_26_B_F
@@ -211,7 +214,7 @@
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\B\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъе?с_low_CO.paa","","","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъе?с_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъе?с_low_CO.paa"};
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\B\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъеѕс_low_CO.paa","","","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъеѕс_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъеѕс_low_CO.paa"};
 		};
 	class SPS_AI_AXMC308_26_G_F;
 
@@ -229,7 +232,7 @@
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\G\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\?ъе?с_low_CO.paa","","","x\SPS\Weapons\sps_ai_axmc\Data\G\?ъе?с_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\?ъе?с_low_CO.paa"};
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\G\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\?ъеѕс_low_CO.paa","","","x\SPS\Weapons\sps_ai_axmc\Data\G\?ъеѕс_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\?ъеѕс_low_CO.paa"};
 		};
 	class SPS_AI_AXMC308_26_DE_F;
 
@@ -247,7 +250,7 @@
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\DE\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\?ъе?с_low_CO.paa","","","x\SPS\Weapons\sps_ai_axmc\Data\DE\?ъе?с_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\?ъе?с_low_CO.paa"};
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\DE\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\?ъеѕс_low_CO.paa","","","x\SPS\Weapons\sps_ai_axmc\Data\DE\?ъеѕс_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\?ъеѕс_low_CO.paa"};
 		};
 	class SPS_AI_AXMC308_26_ES_F;
 
@@ -265,7 +268,7 @@
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\ES\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\?ъе?с_low_CO.paa","","","x\SPS\Weapons\sps_ai_axmc\Data\ES\?ъе?с_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\?ъе?с_low_CO.paa"};
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\ES\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\?ъеѕс_low_CO.paa","","","x\SPS\Weapons\sps_ai_axmc\Data\ES\?ъеѕс_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\?ъеѕс_low_CO.paa"};
 		};
 	class SPS_AI_AXMC338_27_PB_PRCFB_F;
 	class SPS_AI_AXMC338_27_PB_PRCFB_F_bcsewpn: SPS_AI_AXMC338_27_PB_PRCFB_F
@@ -282,8 +285,8 @@
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PRCFB\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\?ъе?с_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\?ъе?с_low_CO.paa","","",""};
-		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯ?д.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?с?хлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУеш?тю*ЧФЯ.rvmat"};
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PRCFB\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\?ъеѕс_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\?ъеѕс_low_CO.paa","","",""};
+		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯњд.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?сіхлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУешѐтю*ЧФЯ.rvmat"};
 		};
 	class SPS_AI_AXMC338_27_B_PRCFB_F;
 
@@ -301,8 +304,8 @@
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PRCFB\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъе?с_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъе?с_low_CO.paa","","",""};
-		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯ?д.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?с?хлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУеш?тю*ЧФЯ.rvmat"};
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PRCFB\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъеѕс_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъеѕс_low_CO.paa","","",""};
+		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯњд.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?сіхлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУешѐтю*ЧФЯ.rvmat"};
 		};
 	class SPS_AI_AXMC338_27_G_PRCFB_F;
 
@@ -320,8 +323,8 @@
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PRCFB\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\?ъе?с_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\?ъе?с_low_CO.paa","","",""};
-		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯ?д.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?с?хлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУеш?тю*ЧФЯ.rvmat"};
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PRCFB\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\?ъеѕс_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\?ъеѕс_low_CO.paa","","",""};
+		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯњд.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?сіхлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУешѐтю*ЧФЯ.rvmat"};
 		};
 	class SPS_AI_AXMC338_27_DE_PRCFB_F;
 
@@ -338,9 +341,9 @@
 		class NGL: NGL{};
 		_generalMacro = "";
 		baseWeapon = "";
-		hiddenSelections[] = {"zasleh","Barrel" , "Group2" , "Group3" , "Group4" , "Mag338" , "Mag300" , "Mag308" , "MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\DE\Group1_low_CO.paa",  "x\SPS\Weapons\sps_ai_axmc\Data\DE\Group2_low_CO.paa", "x\SPS\Weapons\sps_ai_axmc\Data\DE\Group3_low_CO.paa", "x\SPS\Weapons\sps_ai_axmc\Data\DE\Group4_low_CO.paa" ,"x\SPS\Weapons\sps_ai_axmc\Data\DE\Group4_low_CO.paa" ,"","",""};
-		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯ?д.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?с?хлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУеш?тю*ЧФЯ.rvmat"};
+		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PRCFB\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\?ъеѕс_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\?ъеѕс_low_CO.paa","","",""};
+		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯњд.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?сіхлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУешѐтю*ЧФЯ.rvmat"};
 		};
 	class SPS_AI_AXMC338_27_ES_PRCFB_F;
 
@@ -358,9 +361,8 @@
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PRCFB\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\?ъе?с_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\?ъе?с_low_CO.paa","","",""};
-		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯ?д.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?с?хлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУеш?тю*ЧФЯ.rvmat"};
-		
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PRCFB\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\?ъеѕс_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\?ъеѕс_low_CO.paa","","",""};
+		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯњд.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?сіхлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУешѐтю*ЧФЯ.rvmat"};
 		};
 	class SPS_AI_AXMC300_26_PB_PRCFB_F;
 
@@ -378,8 +380,8 @@
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PRCFB\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\?ъе?с_low_CO.paa","","x\SPS\Weapons\sps_ai_axmc\Data\PB\?ъе?с_low_CO.paa","",""};
-		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯ?д.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?с?хлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУеш?тю*ЧФЯ.rvmat"};
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\B\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъеѕс_low_CO.paa","","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъеѕс_low_CO.paa","",""};
+		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯњд.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?сіхлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУешѐтю*ЧФЯ.rvmat"};
 		};
 	class SPS_AI_AXMC300_26_B_PRCFB_F;
 
@@ -397,9 +399,8 @@
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PRCFB\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъе?с_low_CO.paa","","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъе?с_low_CO.paa","",""};
-		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯ?д.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?с?хлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУеш?тю*ЧФЯ.rvmat"};
-		
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PRCFB\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъеѕс_low_CO.paa","","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъеѕс_low_CO.paa","",""};
+		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯњд.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?сіхлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУешѐтю*ЧФЯ.rvmat"};
 		};
 	class SPS_AI_AXMC300_26_G_PRCFB_F;
 
@@ -417,9 +418,8 @@
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\G\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\?ъе?с_low_CO.paa","","x\SPS\Weapons\sps_ai_axmc\Data\G\?ъе?с_low_CO.paa","",""};
-		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯ?д.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?с?хлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУеш?тю*ЧФЯ.rvmat"};
-		
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PRCFB\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\?ъеѕс_low_CO.paa","","x\SPS\Weapons\sps_ai_axmc\Data\G\?ъеѕс_low_CO.paa","",""};
+		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯњд.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?сіхлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУешѐтю*ЧФЯ.rvmat"};
 		};
 	class SPS_AI_AXMC300_26_DE_PRCFB_F;
 
@@ -437,9 +437,8 @@
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\DE\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\?ъе?с_low_CO.paa","","x\SPS\Weapons\sps_ai_axmc\Data\DE\?ъе?с_low_CO.paa","",""};
-		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯ?д.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?с?хлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУеш?тю*ЧФЯ.rvmat"};
-		
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PRCFB\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\?ъеѕс_low_CO.paa","","x\SPS\Weapons\sps_ai_axmc\Data\DE\?ъеѕс_low_CO.paa","",""};
+		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯњд.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?сіхлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУешѐтю*ЧФЯ.rvmat"};
 		};
 	class SPS_AI_AXMC300_26_ES_PRCFB_F;
 
@@ -457,9 +456,8 @@
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PRCFB\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\?ъе?с_low_CO.paa","","x\SPS\Weapons\sps_ai_axmc\Data\DE\?ъе?с_low_CO.paa","",""};
-		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯ?д.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?с?хлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУеш?тю*ЧФЯ.rvmat"};
-		
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PRCFB\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\?ъеѕс_low_CO.paa","","x\SPS\Weapons\sps_ai_axmc\Data\ES\?ъеѕс_low_CO.paa","",""};
+		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯњд.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?сіхлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУешѐтю*ЧФЯ.rvmat"};
 		};
 	class SPS_AI_AXMC308_26_PB_PRCFB_F;
 
@@ -477,8 +475,8 @@
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PRCFB\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\?ъе?с_low_CO.paa","","","x\SPS\Weapons\sps_ai_axmc\Data\PB\?ъе?с_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\?ъе?с_low_CO.paa"};
-		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯ?д.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?с?хлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУеш?тю*ЧФЯ.rvmat"};
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PRCFB\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\?ъеѕс_low_CO.paa","","","x\SPS\Weapons\sps_ai_axmc\Data\PB\?ъеѕс_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\PB\?ъеѕс_low_CO.paa"};
+		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯњд.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?сіхлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУешѐтю*ЧФЯ.rvmat"};
 		};
 	class SPS_AI_AXMC308_26_B_PRCFB_F;
 
@@ -496,9 +494,8 @@
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PRCFB\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъе?с_low_CO.paa","","","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъе?с_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъе?с_low_CO.paa"};
-		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯ?д.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?с?хлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУеш?тю*ЧФЯ.rvmat"};
-		
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PRCFB\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъеѕс_low_CO.paa","","","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъеѕс_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\B\?ъеѕс_low_CO.paa"};
+		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯњд.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?сіхлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУешѐтю*ЧФЯ.rvmat"};
 		};
 	class SPS_AI_AXMC308_26_G_PRCFB_F;
 
@@ -516,10 +513,9 @@
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PRCFB\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\?ъе?с_low_CO.paa","","","x\SPS\Weapons\sps_ai_axmc\Data\G\?ъе?с_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\?ъе?с_low_CO.paa"};
-		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯ?д.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?с?хлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУеш?тю*ЧФЯ.rvmat"};
-		
-		};
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PRCFB\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\?ъеѕс_low_CO.paa","","","x\SPS\Weapons\sps_ai_axmc\Data\G\?ъеѕс_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\G\?ъеѕс_low_CO.paa"};
+		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯњд.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?сіхлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУешѐтю*ЧФЯ.rvmat"};
+	};
 	class SPS_AI_AXMC308_26_DE_PRCFB_F;
 
 	class SPS_AI_AXMC308_26_DE_PRCFB_F_bcsewpn: SPS_AI_AXMC308_26_DE_PRCFB_F
@@ -536,9 +532,8 @@
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PRCFB\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\?ъе?с_low_CO.paa","","","x\SPS\Weapons\sps_ai_axmc\Data\DE\?ъе?с_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\?ъе?с_low_CO.paa"};
-		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯ?д.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?с?хлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУеш?тю*ЧФЯ.rvmat"};
-		
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PRCFB\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\?ъеѕс_low_CO.paa","","","x\SPS\Weapons\sps_ai_axmc\Data\DE\?ъеѕс_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\DE\?ъеѕс_low_CO.paa"};
+		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯњд.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?сіхлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУешѐтю*ЧФЯ.rvmat"};
 		};
 	class SPS_AI_AXMC308_26_ES_PRCFB_F;
 
@@ -556,9 +551,8 @@
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh","Barrel","Group2","Group3","Group4","Mag338","Mag300","Mag308","MagInsert308"};
-		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PRCFB\м??фа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\к*ю?уТ??_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\?рж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\?ъе?с_low_CO.paa","","","x\SPS\Weapons\sps_ai_axmc\Data\ES\?ъе?с_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\?ъе?с_low_CO.paa"};
-		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯ?д.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?с?хлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУеш?тю*ЧФЯ.rvmat"};
-		
+		hiddenSelectionsTextures[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\PRCFB\міўфа*Яжщ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\к*юѕуТєќ_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\ѓрж*иьчшнй_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\?ъеѕс_low_CO.paa","","","x\SPS\Weapons\sps_ai_axmc\Data\ES\?ъеѕс_low_CO.paa","x\SPS\Weapons\sps_ai_axmc\Data\ES\?ъеѕс_low_CO.paa"};
+		hiddenSelectionsMaterials[] = {"","x\SPS\Weapons\sps_ai_axmc\Data\*шбщЯњд.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\?сіхлхХг.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\рч?м.rvmat","x\SPS\Weapons\sps_ai_axmc\Data\дУешѐтю*ЧФЯ.rvmat"};
 		};
 	
 	
