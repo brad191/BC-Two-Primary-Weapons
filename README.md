@@ -9,11 +9,11 @@ class mod_rifle_A_bcsewpn: mod_rifle_A // create a secondweapon classname
   type = 4;  // launchsolt  
   scope = 1; //hide in Arsenal  
   scopeArsenal = 0; //hide in Arsenal  
-  handAnim[] = {}; // no handamin  
-  modes[] = {"Noob_Auto"};  //disable firemode  
+  handAnim[] = {}; // no handamin    
   class Noob_Auto:Noob_Auto{};  
-  muzzles[] = {"this","NGL"}; //disable UGL firemode   
+  modes[] = {"Noob_Auto"};  //disable firemode   
   class NGL: NGL{};  
+  muzzles[] = {"this","NGL"}; //disable UGL firemode 
   _generalMacro = "";  
   baseWeapon = "";  
   hiddenSelections[] = {"zasleh"};  //maybe not zasleh but muzzleflash sometimes  

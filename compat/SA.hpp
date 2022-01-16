@@ -6,10 +6,10 @@
 		scope = 1;
 		scopeArsenal = 0;
 		handAnim[] = {};
+		class Noob_Auto:Noob_Auto{};		
 		modes[] = {"Noob_Auto"};
-		class Noob_Auto:Noob_Auto{};
-		muzzles[] = {"this","NGL"};
 		class NGL: NGL{};
+		muzzles[] = {"this","NGL"};
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh"};
@@ -24,10 +24,10 @@
 		scope = 1;
 		scopeArsenal = 0;
 		handAnim[] = {};
+		class Noob_Auto:Noob_Auto{};		
 		modes[] = {"Noob_Auto"};
-		class Noob_Auto:Noob_Auto{};
-		muzzles[] = {"this","NGL"};
 		class NGL: NGL{};
+		muzzles[] = {"this","NGL"};
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh"};
@@ -43,10 +43,10 @@
 		scope = 1;
 		scopeArsenal = 0;
 		handAnim[] = {};
+		class Noob_Auto:Noob_Auto{};		
 		modes[] = {"Noob_Auto"};
-		class Noob_Auto:Noob_Auto{};
-		muzzles[] = {"this","NGL"};
 		class NGL: NGL{};
+		muzzles[] = {"this","NGL"};
 		_generalMacro = "";
 		baseWeapon = "";
 		hiddenSelections[] = {"zasleh","Handguard","Pistol_Grip","Stock","Weapon","Reciever"};
