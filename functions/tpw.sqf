@@ -6,6 +6,8 @@ _sewpn_info0 = _load0 select 1;
 _weapon_se_new = format["%1%2",_weapon_p_old,"_bcsewpn"];
 _weapon_p_new = [_weapon_se_old, 0, -8] call BIS_fnc_trimString;
 
+_nv_state = currentVisionMode player;
+
 _weapon_mass = (getNumber (configfile >> "CfgWeapons" >> _weapon_p_old >> "WeaponSlotsInfo" >> "mass"));
 _weapon_acc0 = _pwpn_info0 select 1;
 _mass_acc0 = (getNumber (configfile >> "CfgWeapons" >> _weapon_acc0 >> "ItemInfo" >> "mass")) ;
@@ -146,4 +148,8 @@ if (_weapon_se_old isEqualTo "") then
 			};
 		if (!("_bcsewpn" in _weapon_se_old) && !("bc_mass_item" in _weapon_se_old)) then
 			{hint "Launchslot is in use"};
+	};
+if (_nv_state isnotEqualTo 0) then
+	{
+	player action ["nvGoggles", player];
 	};

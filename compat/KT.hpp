@@ -686,6 +686,86 @@
 		hiddenSelections[] = {"zasleh"};
 		hiddenSelectionsTextures[] = {""};
 	};
+	class kt_mrad_338nm2;	
+	class kt_mrad_338nm2_bcsewpn:	  kt_mrad_338nm2{
+		enableAttack = 0;
+		type = 4;
+		scope = 1;
+		scopeArsenal = 0;
+		handAnim[] = {};
+		class Noob_Auto:Noob_Auto{};		
+		modes[] = {"Noob_Auto"};
+		class NGL: NGL{};
+		muzzles[] = {"this","NGL"};
+		_generalMacro = "";
+		baseWeapon = "";
+		hiddenSelections[] = {"zasleh"};
+		hiddenSelectionsTextures[] = {""};
+	};
+	class kt_mrad_338lm2;	
+	class kt_mrad_338lm2_bcsewpn:	  kt_mrad_338lm2{
+		enableAttack = 0;
+		type = 4;
+		scope = 1;
+		scopeArsenal = 0;
+		handAnim[] = {};
+		class Noob_Auto:Noob_Auto{};		
+		modes[] = {"Noob_Auto"};
+		class NGL: NGL{};
+		muzzles[] = {"this","NGL"};
+		_generalMacro = "";
+		baseWeapon = "";
+		hiddenSelections[] = {"zasleh"};
+		hiddenSelectionsTextures[] = {""};
+	};
+	class kt_mrad_762nato2;	
+	class kt_mrad_762nato2_bcsewpn:	  kt_mrad_762nato2{
+		enableAttack = 0;
+		type = 4;
+		scope = 1;
+		scopeArsenal = 0;
+		handAnim[] = {};
+		class Noob_Auto:Noob_Auto{};		
+		modes[] = {"Noob_Auto"};
+		class NGL: NGL{};
+		muzzles[] = {"this","NGL"};
+		_generalMacro = "";
+		baseWeapon = "";
+		hiddenSelections[] = {"zasleh"};
+		hiddenSelectionsTextures[] = {""};
+	};
+	class kt_mrad_300wm2;	
+	class kt_mrad_300wm2_bcsewpn:	  kt_mrad_300wm2{
+		enableAttack = 0;
+		type = 4;
+		scope = 1;
+		scopeArsenal = 0;
+		handAnim[] = {};
+		class Noob_Auto:Noob_Auto{};		
+		modes[] = {"Noob_Auto"};
+		class NGL: NGL{};
+		muzzles[] = {"this","NGL"};
+		_generalMacro = "";
+		baseWeapon = "";
+		hiddenSelections[] = {"zasleh"};
+		hiddenSelectionsTextures[] = {""};
+	};
+	class kt_mrad_65Creedmoor2;	
+	class kt_mrad_65Creedmoor2_bcsewpn:	  kt_mrad_65Creedmoor2{
+		enableAttack = 0;
+		type = 4;
+		scope = 1;
+		scopeArsenal = 0;
+		handAnim[] = {};
+		class Noob_Auto:Noob_Auto{};		
+		modes[] = {"Noob_Auto"};
+		class NGL: NGL{};
+		muzzles[] = {"this","NGL"};
+		_generalMacro = "";
+		baseWeapon = "";
+		hiddenSelections[] = {"zasleh"};
+		hiddenSelectionsTextures[] = {""};
+	};
 		
 		
 	class cadex50;
